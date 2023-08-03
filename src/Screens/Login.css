@@ -1,0 +1,25 @@
+body {margin:2rem;}
+
+.tab-pane {
+  padding:2rem 0;
+}
+
+.nav-link {
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(3,3,37,0.1) 100%);
+}
+.nav-link.active {
+  font-weight: bold;
+  background:#fff;
+}
+#Login_Form{
+    border: 5px solid rgba(0,0,0, 0.3);
+}
+
+.form-group{
+   padding:10px 20px;
+}
+#Login_Btn,#G_login{
+    border-radius: 9px;
+    background: linear-gradient(to top, #4292ff, #388cff, #2e86ff, #2380ff, #177aff);
+}
+
